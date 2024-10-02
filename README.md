@@ -116,15 +116,12 @@ This project implements an AI-powered Exercise Recommendation System for languag
   {
     "top_errors": [
       {
-        "category": "Grammar",
-        "subcategory": "Subject-Verb Agreement",
-        "frequency": 10
+        "errorCategory": "Grammar",
+        "errorSubcategory": "Subject-Verb Agreement",
+        "errorFrequency": 10
       },
       ...
-    ],
-    "page": 1,
-    "per_page": 5,
-    "total": 20
+    ]
   }
   ```
 
